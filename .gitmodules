@@ -1,0 +1,3 @@
+[submodule "DDRCoreDataKit"]
+	path = DDRCoreDataKit
+	url = git@github.com:dave256/DDRCoreDataKit.git
